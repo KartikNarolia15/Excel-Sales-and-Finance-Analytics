@@ -16,6 +16,9 @@ This project is focused on achieving the following key objectives:
 2. **Market Performance and Sales Targets Comparison:**
    - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 
+3. **Top and Bottom 5 Sold Products:**
+   - Focus on both high-performing and underperforming products for strategic adjustments.
+
 ## Finance Report
 
 1. **Profit and Loss (P&L) Reports by Fiscal Year and Months:**

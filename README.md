@@ -9,12 +9,20 @@ These intermediaries play a crucial role in connecting Atliq's products with end
 This project is focused on achieving the following key objectives:
 
 ## Sales Report
-Customer Performance Report: Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
-Market Performance and Sales Targets Comparison: Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
+
+1. **Customer Performance Report:**
+   - Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
+
+2. **Market Performance and Sales Targets Comparison:**
+   - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 
 ## Finance Report
-Profit and Loss (P&L) Reports by Fiscal Year and Months: Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
-Profit and Loss (P&L) Reports by Markets: Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
+
+1. **Profit and Loss (P&L) Reports by Fiscal Year and Months:**
+   - Generate Profit and Loss reports categorized by fiscal year and months to evaluate financial performance over different time frames.
+
+2. **Profit and Loss (P&L) Reports by Markets:**
+   - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
 
 # Lessons Learned
 Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:

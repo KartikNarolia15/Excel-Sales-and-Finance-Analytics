@@ -49,9 +49,5 @@ Through the completion of this project, I gained valuable insights and developed
 
 - **Adaptability**: Embraced new tools and techniques, showcasing adaptability in a dynamic work environment.
 
-
-## Continuous Learning
-Adaptability: Embraced new tools and techniques, showcasing adaptability in a dynamic work environment.
-
 ## Conclusion
 This project not only allowed me to apply my technical skills but also provided a platform for continuous learning and improvement. The experience gained is instrumental in my journey as a data professional, and I look forward to applying these skills in future projects.

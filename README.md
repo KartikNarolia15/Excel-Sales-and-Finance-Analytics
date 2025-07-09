@@ -19,6 +19,9 @@ This project is focused on achieving the following key objectives:
 3. **Top and Bottom 5 Sold Products:**
    - Focus on both high-performing and underperforming products for strategic adjustments.
 
+3. **Top 5 Countries in 2021 and 2020:**
+   - Identification of leading markets with robust sales figures.
+
 ## Finance Report
 
 1. **Profit and Loss (P&L) Reports by Fiscal Year and Months:**
@@ -26,6 +29,9 @@ This project is focused on achieving the following key objectives:
 
 2. **Profit and Loss (P&L) Reports by Markets:**
    - Create Profit and Loss reports categorized by markets to aid in benchmarking against industry peers and previous periods.
+
+3. **Gross Margin % by Quarter:**
+   - Variations in profit margins by region, aiding in performance assessments and strategic decisions.
 
 # Lessons Learned
 Through the completion of this project, I gained valuable insights and developed several skills, both technical and soft skills. Here's what I learned:

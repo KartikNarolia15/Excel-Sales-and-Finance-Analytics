@@ -17,7 +17,7 @@ This project is focused on achieving the following key objectives:
    - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
 
 3. **Top and Bottom 5 Sold Products:**
-   - Focus on both high-performing and underperforming products for strategic adjustments.
+   - Focus on both high-performing and underperforming products to optimize inventory, enhance marketing efforts, and drive strategic product decisions.
 
 3. **Top 5 Countries in 2021 and 2020:**
    - Identification of leading markets with robust sales figures.
